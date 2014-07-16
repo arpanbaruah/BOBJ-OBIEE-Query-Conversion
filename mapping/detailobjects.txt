@@ -1,0 +1,2 @@
+Leaf Class|Parent Dimension
+Detail Object Parent Object|Detail Object Name

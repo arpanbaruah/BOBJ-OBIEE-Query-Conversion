@@ -1,0 +1,14 @@
+NotInList|notIn
+InList|in
+Between|between
+IsNotNull|notNull
+IsNull|null
+Equal|in
+NotEqual|notIn
+GreaterOrEqual|greaterOrEqual
+LessOrEqual|lessOrEqual
+Greater|greater
+Less|less
+Like|like
+
+
